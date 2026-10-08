@@ -20,6 +20,11 @@ class MahasiswaInternational extends Mahasiswa
         $this->negaraAsal = $negaraAsal ?? self::DEFAULT_TEXT;
     }
 
+    public function getNegaraAsal(): string
+    {
+        return $this->negaraAsal;
+    }
+
     public function setNegaraAsal(string $negaraAsal): void
     {
         $this->negaraAsal = $negaraAsal;

@@ -19,6 +19,11 @@ class Mahasiswa
         return $this->nama;
     }
 
+    public function getNim(): string
+    {
+        return $this->nim;
+    }
+
     public function setNama(string $nama): void
     {
         $this->nama = $nama;
@@ -32,6 +37,11 @@ class Mahasiswa
     public function setUmur(int $umur): void
     {
         $this->umur = $umur;
+    }
+
+    public function getUmur(): int
+    {
+        return $this->umur;
     }
 
     public function tampilkanInfo(): void

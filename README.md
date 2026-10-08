@@ -1,6 +1,5 @@
 # Tugas 1 PBO: Konversi Java ke PHP
 
-Repositori ini berisi materi pemrograman berorientasi objek dari pertemuan 01 sampai 06. Kode Java dan hasil konversi PHP berada bersama di folder masing-masing pertemuan.
 
 ## Daftar Materi
 
@@ -28,8 +27,6 @@ php "06 abstractinterface/main.php"
 ```
 
 ## Bukti Output
-
-Screenshot berikut diambil dari output program PHP yang dijalankan.
 
 ### Pertemuan 01: Class
 

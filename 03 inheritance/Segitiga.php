@@ -11,6 +11,6 @@ class Segitiga extends BangunDatar
 
     public function luas(): float
     {
-        return ($this->alas * $this->tinggi) / 2;
+        return (float) intdiv($this->alas * $this->tinggi, 2);
     }
 }

@@ -7,7 +7,7 @@ class FeaturePhone extends Handphone
 {
     public function nyalakan(): void
     {
-        echo "Feature Phone {$this->merk} {$this->model} dinyalakan.\n\n";
+        echo "Feature Phone {$this->merk} {$this->model} dinyalakan.\n";
     }
 
     public function matikan(): void
