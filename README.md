@@ -1,30 +1,30 @@
 # Tugas 1 PBO: Konversi Java ke PHP
 
-Repositori ini berisi konversi materi pemrograman berorientasi objek dari pertemuan 01 sampai 06. Folder Java asli tetap dipertahankan, sedangkan kode PHP berada pada folder bernomor `01` sampai `06`.
+Repositori ini berisi materi pemrograman berorientasi objek dari pertemuan 01 sampai 06. Kode Java dan hasil konversi PHP berada bersama di folder masing-masing pertemuan.
 
 ## Daftar Materi
 
 | Pertemuan | Materi | Program PHP |
 | --- | --- | --- |
-| 01 | Class, object, constructor, dan getter | [`01/`](01/) |
-| 02 | Constructor, getter, dan setter | [`02/`](02/) |
-| 03 | Inheritance dan overriding | [`03/`](03/) |
-| 04 | Polymorphism dan overriding method | [`04/`](04/) |
-| 05 | Asosiasi, agregasi, dan komposisi | [`05/`](05/) |
-| 06 | Abstract class dan interface | [`06/`](06/) |
+| 01 | Class, object, constructor, dan getter | [`01 Class/`](01%20Class/) |
+| 02 | Constructor, getter, dan setter | [`02 Constructor/`](02%20Constructor/) |
+| 03 | Inheritance dan overriding | [`03 inheritance/`](03%20inheritance/) |
+| 04 | Polymorphism dan overriding method | [`04 polymorphism/`](04%20polymorphism/) |
+| 05 | Asosiasi, agregasi, dan komposisi | [`05 asosiasikomposisi/`](05%20asosiasikomposisi/) |
+| 06 | Abstract class dan interface | [`06 abstractinterface/`](06%20abstractinterface/) |
 
 ## Menjalankan Program
 
 Gunakan PHP 8.0 atau lebih baru dari direktori utama repositori:
 
 ```sh
-php 01/main.php
-php 02/main.php
-php 03/main.php
-php 03/App.php
-php 04/main.php
-php 05/main.php
-php 06/main.php
+php "01 Class/main.php"
+php "02 Constructor/main.php"
+php "03 inheritance/main.php"
+php "03 inheritance/App.php"
+php "04 polymorphism/main.php"
+php "05 asosiasikomposisi/main.php"
+php "06 abstractinterface/main.php"
 ```
 
 ## Bukti Output
